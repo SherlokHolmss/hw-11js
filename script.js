@@ -1,5 +1,5 @@
 const bankAccount = {
-    ownerName: "John Doe",
+    ownerName: "John",
     accountNumber: "123456789",
     balance: 0,
     deposit(amount) {
